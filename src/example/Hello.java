@@ -7,6 +7,12 @@ public class Hello {
 
 		System.out.println("Hello");
 
+		
+		int a,b,c;
+		a =555;
+		b =55;
+		c =a+b;
+		System.out.println(c);
 	}
 
 }
